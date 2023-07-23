@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Gabriiel_pln/Gabriiel_pln/raw/main/assets/header-github.gif" alt="Oi, eu sou Gabriel">
+  <img src="https://github.com/Gabriiel_pln/Gabriiel_pln/raw/main/assets/header-github1.gif" alt="Oi, eu sou Gabriel">
 </p>
-
 
 
 - 🔭 I’m currently working on **Creating a chatbot**
