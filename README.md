@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<p align="center">
+  <img src="https://github.com/Gabriiel_pln/Gabriiel_pln/raw/main/assets/header-github.gif" alt="Oi, eu sou Gabriel">
+</p>
 
 
 
