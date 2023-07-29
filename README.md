@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Creating a chatbot**
+- 🔭 I’m currently working on **Creating a mini chatbot**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gabriielpln/Jogo-Da-Forca-Python3](https://github.com/Gabriielpln/Jogo-Da-Forca-Python3)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/Gabriielpln/Jogo-Da-Forca-Python3](https://github.com/Gabriielpln/Jogo-Da-Forca-Python3) -->
 
 - 📫 Talk to me at **josegabriel_palhano@outlook.com**
 
