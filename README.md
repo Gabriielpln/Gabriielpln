@@ -11,7 +11,7 @@
 
 - 📫 Talk to me at **josegabriel_palhano@outlook.com**
 
-- 📄 Learn more about me [https://www.linkedin.com/in/gabriel-palhano-3123a4242](https://www.linkedin.com/in/jose-g-palhano/)
+- 📄 Learn more about me [https://www.linkedin.com/in/jose-g-palhano/](https://www.linkedin.com/in/jose-g-palhano/)
 
 - ⚡ My hobby is **sports, gym, and playing games.**
 
