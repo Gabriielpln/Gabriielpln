@@ -11,7 +11,7 @@
 
 - 📫 Talk to me at **josegabriel_palhano@outlook.com**
 
-- 📄 Learn more about me [https://www.linkedin.com/in/gabriel-palhano-3123a4242](https://www.linkedin.com/in/gabriel-palhano-3123a4242)
+- 📄 Learn more about me [https://www.linkedin.com/in/gabriel-palhano-3123a4242](https://www.linkedin.com/in/jose-g-palhano/)
 
 - ⚡ My hobby is **sports, gym, and playing games.**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-palhano-3123a4242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-palhano-3123a4242" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-g-palhano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-palhano-3123a4242" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriiel_pln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriiel_pln" height="30" width="40" /></a>
 </p>
 <!--
